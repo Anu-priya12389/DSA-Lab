@@ -42,3 +42,4 @@ void pop()
 	node* del=top;
 	cout<<del->data<<endl;
 }
+
